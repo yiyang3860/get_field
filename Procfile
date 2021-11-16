@@ -1,1 +1,1 @@
-web: voila --port=$PORT --enable_nbextensions=True getFieldYonghe.ipynb
+web: voila --enable_nbextensions=True getFieldYonghe.ipynb
