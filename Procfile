@@ -1,1 +1,1 @@
-web: python getFieldYonghe.ipynb
+web: voila --port=$PORT --enable_nbextensions=True getFieldYonghe.ipynb
